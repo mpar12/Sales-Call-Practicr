@@ -105,7 +105,7 @@ export default function Home() {
                     scenario: event.target.value,
                   }))
                 }
-                placeholder="e.g., Upselling additional services to an existing client"
+                placeholder="Selling commercial treadmills to head of procurement for national gym chain"
                 className="w-full rounded-md border border-slate-200 bg-white px-4 py-2 text-sm outline-none ring-indigo-500 transition focus:border-indigo-500 focus:ring-2"
               />
               <p className="mt-1 text-xs font-medium uppercase tracking-wide text-slate-400">
@@ -132,7 +132,7 @@ export default function Home() {
                     buyerPersona: event.target.value,
                   }))
                 }
-                placeholder="e.g., Director of IT at a mid-market SaaS company"
+                placeholder="Buyer is a stubborn, abrasive."
                 className="w-full rounded-md border border-slate-200 bg-white px-4 py-2 text-sm outline-none ring-indigo-500 transition focus:border-indigo-500 focus:ring-2"
               />
               <p className="mt-1 text-xs font-medium uppercase tracking-wide text-slate-400">
@@ -159,7 +159,7 @@ export default function Home() {
                     productDescription: event.target.value,
                   }))
                 }
-                placeholder="e.g., AI-powered sales coaching platform"
+                placeholder="This commercial-grade treadmill offers a durable frame and a touchscreen with multiple experiences."
                 className="w-full rounded-md border border-slate-200 bg-white px-4 py-2 text-sm outline-none ring-indigo-500 transition focus:border-indigo-500 focus:ring-2"
               />
               <p className="mt-1 text-xs font-medium uppercase tracking-wide text-slate-400">
